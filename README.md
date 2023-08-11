@@ -2,6 +2,22 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This starter uses Next.js 13 and page directory structure by default.
 
+## Usage
+
+npm
+
+```bash
+npx degit discountry/nextjs13-pages-starter <YOUR_APP_NAME>
+# or
+npx create-next-app --example https://github.com/discountry/nextjs13-pages-starter <YOUR_APP_NAME>
+```
+
+yarn
+
+```bash
+yarn create next-app --example https://github.com/discountry/nextjs13-pages-starter <YOUR_APP_NAME>
+```
+
 ## Preferences
 
 - Next.js 13
